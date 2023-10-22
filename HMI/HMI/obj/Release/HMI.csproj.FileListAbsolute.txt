@@ -1,0 +1,10 @@
+G:\Mi unidad\personales\HMI\HMI\HMI\bin\Release\HMI.exe.config
+G:\Mi unidad\personales\HMI\HMI\HMI\bin\Release\HMI.exe
+G:\Mi unidad\personales\HMI\HMI\HMI\bin\Release\HMI.pdb
+G:\Mi unidad\personales\HMI\HMI\HMI\obj\Release\HMI.csproj.AssemblyReference.cache
+G:\Mi unidad\personales\HMI\HMI\HMI\obj\Release\HMI.Form1.resources
+G:\Mi unidad\personales\HMI\HMI\HMI\obj\Release\HMI.Properties.Resources.resources
+G:\Mi unidad\personales\HMI\HMI\HMI\obj\Release\HMI.csproj.GenerateResource.cache
+G:\Mi unidad\personales\HMI\HMI\HMI\obj\Release\HMI.csproj.CoreCompileInputs.cache
+G:\Mi unidad\personales\HMI\HMI\HMI\obj\Release\HMI.exe
+G:\Mi unidad\personales\HMI\HMI\HMI\obj\Release\HMI.pdb
